@@ -111,7 +111,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/streaming-01-foundations
+git clone https://github.com/sydsailors/streaming-01-foundations
 
 cd streaming-01-foundations
 code .
