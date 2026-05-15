@@ -20,9 +20,12 @@ authors:
     given-names: Denise M.
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
+  - family-name: Sailors
+    given-names: Sydney
+    affiliation: "Northwest Missouri State University, USA"
 
-repository-code: "https://github.com/denisecase/streaming-01-foundations"
-url: "https://github.com/denisecase/streaming-01-foundations"
+repository-code: "https://github.com/sydsailors/streaming-01-foundations"
+url: "https://github.com/sydsailors/streaming-01-foundations"
 license: MIT
 
 abstract: >
